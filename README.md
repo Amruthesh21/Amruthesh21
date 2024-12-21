@@ -2,7 +2,10 @@
 
 <h3 align="center">👨‍💻 Master’s Student in Cybersecurity | Aspiring Developer | Tech Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<!-- Adding a line break to avoid overlap -->
+<div align="right">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+</div>
 
 - 🔒 **Focused on:** Software and Web Development, Database Management, Ethical Hacking, Encryption & Decryption Techniques, and Cybersecurity Tools  
 - 🌱 **Currently learning:** Encryption and Decryption Techniques  
@@ -57,7 +60,6 @@
     <img src="https://visitcount.itsvg.in/api?id=Amruthesh21&icon=0&color=1" alt="Visitors Count" />
   </p>
 </div>
-
 
 <hr/>
 
