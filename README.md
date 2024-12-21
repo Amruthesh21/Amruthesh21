@@ -3,7 +3,7 @@
 <h3 align="center">👨‍💻 Master’s Student in Cybersecurity | Aspiring Developer | Tech Enthusiast</h3>
 
 <!-- Adding a line break to avoid overlap -->
-<div align="right">
+<div align="center">
   <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 </div>
 
