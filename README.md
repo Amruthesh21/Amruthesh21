@@ -26,18 +26,38 @@
 <hr/>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center"> 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthesh21&theme=chartreuse-dark)
-
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amruthesh21&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amruthesh21&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Streak Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruthesh21&theme=tokyo-night" alt="GitHub Activity Graph" />
-  <img src="https://visitcount.itsvg.in/api?id=Amruthesh21&icon=0&color=1" alt="Visitors Count" />
+  <!-- Top Languages Card -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthesh21&theme=chartreuse-dark" alt="Top Languages" />
+  </p>
+  <br/>
+
+  <!-- GitHub Stats Card -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Amruthesh21&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
+  </p>
+  <br/>
+
+  <!-- Streak Stats -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amruthesh21&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Streak Graph" />
+  </p>
+  <br/>
+
+  <!-- Activity Graph -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruthesh21&theme=tokyo-night" alt="GitHub Activity Graph" />
+  </p>
+  <br/>
+
+  <!-- Visitor Count -->
+  <p>
+    <img src="https://visitcount.itsvg.in/api?id=Amruthesh21&icon=0&color=1" alt="Visitors Count" />
+  </p>
 </div>
+
 
 <hr/>
 
