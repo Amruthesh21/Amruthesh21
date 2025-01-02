@@ -9,7 +9,7 @@
 
 - 🔒 **Focused on:** Software and Web Development, Database Management, Ethical Hacking, Encryption & Decryption Techniques, and Cybersecurity Tools  
 - 🌱 **Currently learning:** Encryption and Decryption Techniques  
-- 📑 **Portfolio:**  
+- 📑 **Portfolio:**  https://amruthesh.netlify.app/
 - 📫 **Reach me at:** theofficialamruthesh@gmail.com  
 - ⚡ **Fun fact:** I love cricket and captained my class team!  
 
